@@ -11,5 +11,5 @@ A fork of Mihon, free and open source manga reader for Android.
 
 ## Releases
 
-You can obtain Mihon releases from the  [releases](https://github.com/AmanoTeam/mihon/releases) page.
+You can obtain Kahon releases from the  [releases](https://github.com/AmanoTeam/Kahon/releases) page.
 
